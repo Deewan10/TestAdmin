@@ -5,6 +5,8 @@ import BarChart from './BarChart';
 import Circle from './Circle.jsx';
 import MyCard from './MyCard.jsx';
 import AtmCard1 from './DebitCard.jsx'
+import Card3 from './Card3.jsx';
+
 
 // import { FiUber, FiShoppingBag, FiNetflix } from 'react-icons/fi';
 function Main() {
@@ -14,6 +16,7 @@ function Main() {
       <div className="main-left">
         <Cards/>
         <BarChart/>
+        <Card3 />
         <Card2 />
       </div>
 
