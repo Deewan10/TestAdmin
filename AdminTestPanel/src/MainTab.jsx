@@ -8,7 +8,7 @@ import AtmCard1 from './DebitCard.jsx'
 import Card3 from './Card3.jsx';
 
 
-// import { FiUber, FiShoppingBag, FiNetflix } from 'react-icons/fi';
+import { FiUber, FiShoppingBag, FiNetflix } from 'react-icons/fi';
 function Main() {
   return (
     <div className="main">

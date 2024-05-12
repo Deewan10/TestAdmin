@@ -1,11 +1,11 @@
-import { useState } from 'react'
+import React from 'react';
 import Sidebar from './Sidebar.jsx';
 import Header from './Header.jsx';
 import Main from './MainTab.jsx';
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
 
   
