@@ -34,6 +34,7 @@ function Main() {
           <div className="transaction">
             <p>Transaction</p>
             <h4>+</h4>
+            
           </div>
           <div class="details">
             <div class="item">
