@@ -29,12 +29,14 @@ function Main() {
 
           <MyCard />
 
+          
+
           <AtmCard1 />
 
           <div className="transaction">
             <p>Transaction</p>
             <h4>+</h4>
-            
+
           </div>
           <div class="details">
             <div class="item">
